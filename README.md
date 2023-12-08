@@ -2,4 +2,9 @@
 
 * Leyendo libro "The path to senior product designer"
 * Pasar a esta libreta el apartado "Product design career path"
-* Publicar video y si fuese posible compartir github
+
+Siguientes pasos
+
+* Leer libro Research
+* Revisar material cursos de research, organizar y unificar
+* Preparar plantillas de trabajo agnósticas a diseño
