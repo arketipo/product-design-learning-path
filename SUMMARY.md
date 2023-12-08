@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Learning path Product Design](README.md)
-  * [Guías de aprendizaje](<README (1).md>)
+* [👉 Status](README.md)
+* [Learning path Product Design](<README (1).md>)
+  * [Guías de aprendizaje](<README (1) (1).md>)
   * [Referencias para ser Product Designer](master/referencias-para-ser-product-designer.md)
+  * [Canales de Youtube](master/canales-de-youtube.md)
 * [Bases del Diseño](untitled-1/README.md)
   * [Arquitectura de la información](untitled-1/arquitectura-de-la-informacion.md)
   * [Color](untitled-1/color.md)

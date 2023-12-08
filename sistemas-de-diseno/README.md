@@ -1,2 +1,2 @@
-# 🔴 Sistemas de Diseño
+# Sistemas de Diseño
 

@@ -1,4 +1,4 @@
-# 🔴 Historia de los sistemas de Diseño
+# Historia de los sistemas de Diseño
 
 ## Containers marítimos
 
