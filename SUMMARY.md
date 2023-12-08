@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Learning path Product Design](README.md)
+* [Guías de aprendizaje](README.md)
+* [Learning path Product Design](<README (1).md>)
 * [Inglés](fase-1-bases.md)
 * [Bases del Diseño](untitled-1/README.md)
   * [Arquitectura de la información](untitled-1/arquitectura-de-la-informacion.md)
@@ -17,4 +18,3 @@
   * [Tableau](ddd/tableau.md)
 * [Sistemas de Diseño](sistemas-de-diseno/README.md)
   * [Historia de los sistemas de Diseño](sistemas-de-diseno/historia-de-los-sistemas-de-diseno.md)
-
