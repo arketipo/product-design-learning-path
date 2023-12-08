@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🔴 Learning path Product Design](README.md)
-* [🔴 Perfiles y niveles](perfiles-y-niveles.md)
+* [🟢 Learning path Product Design](README.md)
+* [🟡 Perfiles y niveles](perfiles-y-niveles.md)
 * [🔴 Guías de aprendizaje](<README (1).md>)
 * [🔴 Inglés](fase-1-bases.md)
 * [Metodologías ágiles](metodologias-agiles.md)
