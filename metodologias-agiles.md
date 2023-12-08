@@ -7,3 +7,11 @@ description: Agile, Kanban, comunicación…
 Curso Scrum roles (empezado)
 
 {% embed url="https://www.linkedin.com/learning/scrum-roles/funciones-y-caracteristicas-de-un-dueno-de-producto" %}
+
+## Ceremonias
+
+#### Dailies
+
+#### Retros
+
+#### Post-mortem
