@@ -2,7 +2,7 @@
 description: Jira + Confluence
 ---
 
-# 🔴 Herramientas
+# Herramientas
 
 Tareas
 

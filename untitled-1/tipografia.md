@@ -1,4 +1,4 @@
-# 🟢 Tipografía
+# Tipografía
 
 {% embed url="https://betterwebtype.com/" %}
 

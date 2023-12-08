@@ -1,4 +1,4 @@
-# 🟢 DDD
+# DDD
 
 Fundamentos del DDD
 

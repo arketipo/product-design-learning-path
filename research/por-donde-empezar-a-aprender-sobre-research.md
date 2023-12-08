@@ -1,4 +1,4 @@
-# 🟢 Por donde empezar a aprender sobre Research
+# Por donde empezar a aprender sobre Research
 
 {% embed url="http://uxresearchbook.com/" %}
 

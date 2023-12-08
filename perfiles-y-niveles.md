@@ -1,4 +1,4 @@
-# 🟡 Perfiles y niveles
+# Perfiles y niveles
 
 {% embed url="https://uxdesign.cc/ux-career-paths-a-how-to-guide-eceb4b0f5dc5" %}
 

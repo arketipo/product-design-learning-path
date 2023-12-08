@@ -1,4 +1,4 @@
-# 🔴 Arquitectura de la información
+# Arquitectura de la información
 
 En este canal de youtube tienes muchísima información sobre Arquitectura de la información
 

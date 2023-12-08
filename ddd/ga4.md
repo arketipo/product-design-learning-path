@@ -1,4 +1,4 @@
-# 🔴 GA4
+# GA4
 
 {% embed url="https://support.google.com/analytics/answer/10089681?hl=es" %}
 

@@ -2,7 +2,7 @@
 description: Agile, Kanban, comunicación…
 ---
 
-# 🟡 Metodologías ágiles
+# Metodologías ágiles
 
 Curso Scrum roles (empezado)
 

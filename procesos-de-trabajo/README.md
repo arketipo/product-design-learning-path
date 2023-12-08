@@ -1,2 +1,2 @@
-# 🔴 Procesos de trabajo
+# Procesos de trabajo
 

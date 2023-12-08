@@ -1,4 +1,4 @@
-# 🔴 Composición
+# Composición
 
 ## Bases de la composición
 
