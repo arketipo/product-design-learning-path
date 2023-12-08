@@ -1,4 +1,4 @@
-# 🔴 Inglés
+# 🟢 Inglés
 
 Cómo dice un compañeros: "si quieres programar el primer idioma que debes aprender es el inglés" lo mismo si quieres trabajar en producto digital: Product management, Product design, Marketing…
 

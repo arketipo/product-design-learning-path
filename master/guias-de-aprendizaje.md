@@ -1,4 +1,4 @@
-# 🔴 Guías de aprendizaje
+# Guías de aprendizaje
 
 {% embed url="https://www.nngroup.com/topic/study-guide/" %}
 

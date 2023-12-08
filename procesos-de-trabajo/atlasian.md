@@ -2,5 +2,12 @@
 description: Jira + Confluence
 ---
 
-# 🔴 Atlasian
+# 🔴 Herramientas
 
+Tareas
+
+* Jira
+
+Documentación
+
+* Confluence
