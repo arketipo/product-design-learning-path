@@ -1,2 +1,2 @@
-# Amplitude
+# 🔴 Amplitude
 

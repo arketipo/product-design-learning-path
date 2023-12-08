@@ -1,4 +1,4 @@
-# Composición
+# 🔴 Composición
 
 ## Bases de la composición
 
@@ -21,6 +21,4 @@ Hay normas, hay que aprenderlas, para poder saltártelas más adelante
 ## Disfruta del arte
 
 {% embed url="https://www.wikiart.org/es" %}
-
-
 

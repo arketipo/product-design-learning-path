@@ -1,6 +1,6 @@
 ---
-description: 'Agile, Kanban, comunicación…'
+description: Agile, Kanban, comunicación…
 ---
 
-# Metodologías
+# 🔴 Metodologías
 

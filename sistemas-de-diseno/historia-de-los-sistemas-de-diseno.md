@@ -1,4 +1,4 @@
-# Historia de los sistemas de Diseño
+# 🔴 Historia de los sistemas de Diseño
 
 ## Containers marítimos
 
@@ -7,6 +7,4 @@
 {% embed url="https://www.youtube.com/watch?v=FG8ozYbqe-w" %}
 
 ## Ikea
-
-
 
