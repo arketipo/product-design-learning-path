@@ -10,3 +10,8 @@ Siguientes pasos
 * Leer libro Research
 * Revisar material cursos de research, organizar y unificar
 * Preparar plantillas de trabajo agnósticas a diseño
+
+Intereses
+
+* Revisar documentación JBD
+* Investigar OOUX
