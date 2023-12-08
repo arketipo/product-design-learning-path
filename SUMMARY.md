@@ -17,7 +17,7 @@
   * [Tableau](ddd/tableau.md)
 * [Inglés](fase-1-bases.md)
 * [Figma](figma.md)
-* [Perfiles y niveles](perfiles-y-niveles.md)
+* [Perfiles y niveles profesionales](perfiles-y-niveles-profesionales.md)
 * [Procesos de trabajo](procesos-de-trabajo/README.md)
   * [Metodologías ágiles](metodologias-agiles.md)
   * [Herramientas](procesos-de-trabajo/atlasian.md)
