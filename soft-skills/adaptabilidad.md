@@ -16,7 +16,9 @@ description: >-
 {% embed url="https://www.youtube.com/watch?v=sqIaRIZXers" %}
 
 * La del oscar que es un niño y tiene que lidiar con los mafiosos y sobrevivir
+* Un hombre llamado caballo
 * Herramienta: **Obsidian** aunque en realidad la herramienta da igual, lo importante es que el formato no quede obsoleto.
+* Los master de Innovación de Barrabes, cada semana un tipo de vida
 * Biología: La **Sepia** o el Pulpo
 
 {% embed url="https://www.youtube.com/watch?v=7uP4lQctB3o" %}
