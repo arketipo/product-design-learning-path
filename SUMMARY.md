@@ -29,6 +29,7 @@
   * [Herramientas accesibilidad](diseno-inclusivo-y-accesibilidad/herramientas-accesibilidad.md)
 * [SISTEMAS DE DISEÑO](sistemas-de-diseno/README.md)
   * [Historia de los sistemas de Diseño](sistemas-de-diseno/historia-de-los-sistemas-de-diseno.md)
+  * [Listado de sistemas de diseño](sistemas-de-diseno/listado-de-sistemas-de-diseno.md)
 * [GESTIÓN DE PRODUCTO](gestion-de-producto.md)
 * [DESARROLLO PROFESIONAL Y LIDERAZGO](desarrollo-profesional-y-liderazgo/README.md)
   * [Perfiles y niveles profesionales](perfiles-y-niveles-profesionales.md)
