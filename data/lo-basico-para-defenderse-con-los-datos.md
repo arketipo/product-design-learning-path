@@ -1,6 +1,6 @@
 # 👉 Lo básico para defenderse con los datos
 
-Data Driven Design - La nave nodriza (hecho)
+Data Driven Design - La Nave Nodriza con Ana Asuero (hecho)
 
 {% embed url="https://www.nextdoorpublishers.com/libros/como-sobrevivir-a-la-incertidumbre/" %}
 Empezado
