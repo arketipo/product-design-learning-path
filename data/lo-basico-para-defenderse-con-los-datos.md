@@ -10,9 +10,13 @@
 
 {% embed url="https://www.informit.com/store/product-analytics-applied-data-science-techniques-for-9780135258651" %}
 
-## Escuela Escribano
+#### Escuela Escribano
 
 * [Fundamentals of Product Analytics](https://cursos.escuelaescribano.com/view/courses/curso-de-fundamentos-de-product-analytics) (en marcha)
 * Advance (pendiente)
   * [https://cursos.escuelaescribano.com/product-analytics-como-convertir-datos-en-decisiones-estrategicas-de-producto](https://cursos.escuelaescribano.com/product-analytics-como-convertir-datos-en-decisiones-estrategicas-de-producto)
+
+## Herramientas
+
+{% embed url="https://www.google.com/sheets/about/" %}
 
