@@ -1,5 +1,7 @@
 # 👉 Lo básico para defenderse con los datos
 
+Data Driven Design - La nave nodriza (hecho)
+
 {% embed url="https://www.nextdoorpublishers.com/libros/como-sobrevivir-a-la-incertidumbre/" %}
 Empezado
 {% endembed %}
