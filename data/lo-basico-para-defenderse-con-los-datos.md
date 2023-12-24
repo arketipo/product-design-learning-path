@@ -35,3 +35,6 @@ Pendiente
 
 {% embed url="https://www.google.com/sheets/about/" %}
 
+{% embed url="https://www.linkedin.com/learning/aprende-analisis-y-visualizacion-de-datos-con-hojas-de-calculo-de-google/analisis-y-visualizacion-con-google?resume=false" %}
+Empezado
+{% endembed %}
