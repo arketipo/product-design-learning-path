@@ -22,6 +22,7 @@
     * [Amplitude](research/ddd/amplitude.md)
     * [Tableau](research/ddd/tableau.md)
 * [👉 DATA](data/README.md)
+  * [Aprender matemáticas](data/aprender-matematicas.md)
   * [👉 Lo básico para defenderse con los datos](data/lo-basico-para-defenderse-con-los-datos.md)
   * [Recursos sobre Data](data/recursos-sobre-data.md)
 * [DISEÑO DE INTERFACES E INTERACCIÓN](diseno-de-interfaces-e-interaccion/README.md)
