@@ -19,3 +19,7 @@ _**Por si acaso caes en la tentación: no, los datos no van a salvarte**. Lo pri
 ## Libros
 
 {% embed url="https://kiko.llaneras.es/piensa-claro" %}
+
+## Power BI
+
+{% embed url="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos/ampliacion-de-sus-habilidades-de-analisis-de-datos" %}
