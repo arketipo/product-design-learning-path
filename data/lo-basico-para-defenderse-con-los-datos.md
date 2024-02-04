@@ -26,6 +26,12 @@ Pendiente
 Pendiente
 {% endembed %}
 
+
+
+## Capacidad de análisis
+
+<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+
 #### Escuela Escribano
 
 * [Fundamentals of Product Analytics](https://cursos.escuelaescribano.com/view/courses/curso-de-fundamentos-de-product-analytics) (en marcha)
